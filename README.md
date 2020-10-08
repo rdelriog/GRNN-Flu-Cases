@@ -14,3 +14,5 @@ You can consult the research poster and video on https://presentations.curf.upen
 We used the previous work of Fernando Gama https://github.com/alelab-upenn/graph-neural-networks for the GNN library creation, and Luana Ruiz https://github.com/luanaruiz9/gated_gcrnns for the adaptation to use the library on Graph Recurrent Neural Networks.
 
 Made with the Sponsorship of the Penn Unergraduate Research Mentoring Program under the mentorship of Alejandro Ribeiro and Luana Ruiz
+
+Created by Ricardo Del Rio and Mariana Luna
